@@ -1,0 +1,14 @@
+D:\C#\ShapesInterface\bin\Debug\net8.0\ShapesInterface.exe
+D:\C#\ShapesInterface\bin\Debug\net8.0\ShapesInterface.deps.json
+D:\C#\ShapesInterface\bin\Debug\net8.0\ShapesInterface.runtimeconfig.json
+D:\C#\ShapesInterface\bin\Debug\net8.0\ShapesInterface.dll
+D:\C#\ShapesInterface\bin\Debug\net8.0\ShapesInterface.pdb
+D:\C#\ShapesInterface\obj\Debug\net8.0\ShapesInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ShapesInterface\obj\Debug\net8.0\ShapesInterface.AssemblyInfoInputs.cache
+D:\C#\ShapesInterface\obj\Debug\net8.0\ShapesInterface.AssemblyInfo.cs
+D:\C#\ShapesInterface\obj\Debug\net8.0\ShapesInterface.csproj.CoreCompileInputs.cache
+D:\C#\ShapesInterface\obj\Debug\net8.0\ShapesInterface.dll
+D:\C#\ShapesInterface\obj\Debug\net8.0\refint\ShapesInterface.dll
+D:\C#\ShapesInterface\obj\Debug\net8.0\ShapesInterface.pdb
+D:\C#\ShapesInterface\obj\Debug\net8.0\ShapesInterface.genruntimeconfig.cache
+D:\C#\ShapesInterface\obj\Debug\net8.0\ref\ShapesInterface.dll

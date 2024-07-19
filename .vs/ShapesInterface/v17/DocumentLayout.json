@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ShapesInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5249958E-AF59-465C-BE77-3F6D9337147B}|ShapesInterface.csproj|d:\\c#\\shapesinterface\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5249958E-AF59-465C-BE77-3F6D9337147B}|ShapesInterface.csproj|solutionrelative:models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5249958E-AF59-465C-BE77-3F6D9337147B}|ShapesInterface.csproj|d:\\c#\\shapesinterface\\models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5249958E-AF59-465C-BE77-3F6D9337147B}|ShapesInterface.csproj|solutionrelative:models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5249958E-AF59-465C-BE77-3F6D9337147B}|ShapesInterface.csproj|d:\\c#\\shapesinterface\\models\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5249958E-AF59-465C-BE77-3F6D9337147B}|ShapesInterface.csproj|solutionrelative:models\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5249958E-AF59-465C-BE77-3F6D9337147B}|ShapesInterface.csproj|d:\\c#\\shapesinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5249958E-AF59-465C-BE77-3F6D9337147B}|ShapesInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5249958E-AF59-465C-BE77-3F6D9337147B}|ShapesInterface.csproj|d:\\c#\\shapesinterface\\models\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5249958E-AF59-465C-BE77-3F6D9337147B}|ShapesInterface.csproj|solutionrelative:models\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\C#\\ShapesInterface\\Models\\Circle.cs",
+              "RelativeDocumentMoniker": "Models\\Circle.cs",
+              "ToolTip": "D:\\C#\\ShapesInterface\\Models\\Circle.cs",
+              "RelativeToolTip": "Models\\Circle.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:52:31.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\C#\\ShapesInterface\\Models\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Models\\Rectangle.cs",
+              "ToolTip": "D:\\C#\\ShapesInterface\\Models\\Rectangle.cs",
+              "RelativeToolTip": "Models\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:52:19.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "D:\\C#\\ShapesInterface\\Models\\IDrawable.cs",
+              "RelativeDocumentMoniker": "Models\\IDrawable.cs",
+              "ToolTip": "D:\\C#\\ShapesInterface\\Models\\IDrawable.cs",
+              "RelativeToolTip": "Models\\IDrawable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:52:01.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\C#\\ShapesInterface\\Models\\IShape.cs",
+              "RelativeDocumentMoniker": "Models\\IShape.cs",
+              "ToolTip": "D:\\C#\\ShapesInterface\\Models\\IShape.cs",
+              "RelativeToolTip": "Models\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:51:42.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ShapesInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\ShapesInterface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:51:01.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
